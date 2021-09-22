@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11761851-383c-4c6f-a5ff-3a36088ccab9" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="a916101a-c0f8-4cc3-a38f-b33a8d62deb4" />
+    </checked>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iDL0PGS9kxHAhKbWhMf1bJW0oY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="excel合并调试" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excel合并调试.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.excel合并调试" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11761851-383c-4c6f-a5ff-3a36088ccab9" name="默认更改列表" comment="" />
+      <created>1601436991707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601436991707</updated>
+      <workItem from="1601437001197" duration="2685000" />
+      <workItem from="1601449974742" duration="37000" />
+      <workItem from="1605675798784" duration="346000" />
+      <workItem from="1605680658194" duration="142000" />
+      <workItem from="1605686087192" duration="197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1840" y="205" key="#Notifications" timestamp="1601449649523">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1840" y="205" key="#Notifications/0.0.1280.800/1280.0.1920.1080@1280.0.1920.1080" timestamp="1601449649523" />
+    <state x="1840" y="205" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605680747157">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1840" y="205" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800/1280.0.1920.1080@1280.0.1920.1080" timestamp="1605680747157" />
+    <state x="1840" y="205" key="#com.intellij.execution.impl.EditConfigurationsDialog/25.23.1255.777/1280.0.1920.1080@1280.0.1920.1080" timestamp="1601437025987" />
+    <state x="2007" y="249" key="ExecutionTargetDialog" timestamp="1601437817609">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2007" y="249" key="ExecutionTargetDialog/0.0.1280.800/1280.0.1920.1080@1280.0.1920.1080" timestamp="1601437817609" />
+    <state x="2007" y="249" key="ExecutionTargetDialog/25.23.1255.777/1280.0.1920.1080@1280.0.1920.1080" timestamp="1601437059510" />
+    <state width="939" height="287" key="GridCell.Tab.0.bottom" timestamp="1605686286493">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="939" height="287" key="GridCell.Tab.0.bottom/0.0.1280.800/1280.0.1920.1080@1280.0.1920.1080" timestamp="1605686262551" />
+    <state width="939" height="287" key="GridCell.Tab.0.bottom/0.25.1280.775/1280.0.1920.1080@1280.0.1920.1080" timestamp="1605686286493" />
+    <state width="939" height="287" key="GridCell.Tab.0.center" timestamp="1605686286492">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="939" height="287" key="GridCell.Tab.0.center/0.0.1280.800/1280.0.1920.1080@1280.0.1920.1080" timestamp="1605686262548" />
+    <state width="939" height="287" key="GridCell.Tab.0.center/0.25.1280.775/1280.0.1920.1080@1280.0.1920.1080" timestamp="1605686286492" />
+    <state width="939" height="287" key="GridCell.Tab.0.left" timestamp="1605686286491">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="939" height="287" key="GridCell.Tab.0.left/0.0.1280.800/1280.0.1920.1080@1280.0.1920.1080" timestamp="1605686262546" />
+    <state width="939" height="287" key="GridCell.Tab.0.left/0.25.1280.775/1280.0.1920.1080@1280.0.1920.1080" timestamp="1605686286491" />
+    <state width="939" height="287" key="GridCell.Tab.0.right" timestamp="1605686286493">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="939" height="287" key="GridCell.Tab.0.right/0.0.1280.800/1280.0.1920.1080@1280.0.1920.1080" timestamp="1605686262550" />
+    <state width="939" height="287" key="GridCell.Tab.0.right/0.25.1280.775/1280.0.1920.1080@1280.0.1920.1080" timestamp="1605686286493" />
+    <state width="239" height="457" key="HiddenNamespacesPopup" timestamp="1601448612041">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="239" height="457" key="HiddenNamespacesPopup/0.23.1280.777/1280.0.1920.1080@1280.0.1920.1080" timestamp="1601448612040" />
+    <state width="239" height="457" key="HiddenNamespacesPopup/25.23.1255.777/1280.0.1920.1080@1280.0.1920.1080" timestamp="1601437032041" />
+    <state x="1974" y="215" key="SettingsEditor" timestamp="1605686260145">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1974" y="215" key="SettingsEditor/0.0.1280.800/1280.0.1920.1080@1280.0.1920.1080" timestamp="1605686260145" />
+    <state x="1443" y="124" key="SettingsEditor/0.23.1280.777/1280.0.1920.1080@1280.0.1920.1080" timestamp="1601448598898" />
+    <state x="1934" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1601449986021">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1934" y="372" key="com.intellij.ide.util.TipDialog/0.0.1280.800/1280.0.1920.1080@1280.0.1920.1080" timestamp="1601449986021" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled$excel.coverage" NAME="excel合并调试 Coverage Results" MODIFIED="1605686262516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+ 11）创建一个"工作簿"，此时里面会默认生成一个名叫"Sheet1"的Sheet表。
+ 2import xlsxwriter
+ 3# 这一步相当于创建了一个新的"工作簿"；
+ 4# "demo.xlsx"文件不存在，表示新建"工作簿"；
+ 5# "demo.xlsx"文件存在，表示新建"工作簿"覆盖原有的"工作簿"；
+ 6workbook = xlsxwriter.Workbook("demo.xlsx")
+ 7# close是将"工作簿"保存关闭，这一步必须有。否则创建的文件无法显示出来。
+ 8workbook.close()  
+ 92）创建一个"工作簿"并添加一个"工作表"，工作表命名为"2018年销量"。
+10import xlsxwriter
+11workbook = xlsxwriter.Workbook("cc.xlsx")
+12worksheet = workbook.add_worksheet("2018年销售量")
+13workbook.close()   
+

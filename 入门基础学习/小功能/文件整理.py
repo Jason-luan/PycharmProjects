@@ -3,7 +3,7 @@ from pathlib import Path
 FILE_FORMATS={
 "图片资料":[".jpg",".jpeg",".bpm",'.png','.gif','.heic','.psd'],
 "文档资料":[".doc",".docx",".xls",".xlsx",".ppt",".pptx",".pdf",".txt",".md",".xlsm",'.wps','.chm'],
-"视频文件":[".mp4",".avi",".wmv",'.mov'],
+"视频文件":[".mp4",".avi",".wmv",'.mov',".m4v"],
 "音频文件":[".mp3"],
 "压缩文件":[".rar",".zip",".tar",".gz",".7z","bz"],
 "脚本文件":[".ps1",".sh",".bat",".py",'.jar'],

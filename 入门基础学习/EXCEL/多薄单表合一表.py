@@ -3,7 +3,7 @@
 import os
 import pandas as pd
 import numpy as np
-dir = "/Users/jason/Documents/测试"  # 设置工作路径(待并表格在同一路径下)
+dir = '/Volumes/[C] Windows 11分行生产/Users/jason/Desktop/VBA测试'  # 设置工作路径(待并表格在同一路径下)
 
 # 新建列表，存放文件名
 filename_excel = []
@@ -16,7 +16,7 @@ for root, dirs, files in os.walk(dir):
         if os.path.splitext(file)[1] in ['.xls','.xlsx']: #.xlx结尾的EXCEL文件,可改
             file_path = os.path.join(root,file)
             filename_excel.append(file_path)
-            df = pd.read_excel(file_path)  # excel转换成DataFrame
+            df = pd.read_excel(file_path,header=3)  # excel转换成DataFrame
             frames.append(df)
  #合并所有数据
 result = pd.concat(frames)
